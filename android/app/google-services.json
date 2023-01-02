@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018776658343",
+    "project_id": "massageme-app-d60b4",
+    "storage_bucket": "massageme-app-d60b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018776658343:android:60e6b69d686d904c44d682",
+        "android_client_info": {
+          "package_name": "at.omarahmed.massageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018776658343-s6imdrsl4p5au1l0hhpi3mg5tfrl1ohq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcEf1u8B_X0QX7YUZRRmcCk7QL7KEyDzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018776658343-s6imdrsl4p5au1l0hhpi3mg5tfrl1ohq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
